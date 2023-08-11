@@ -26,7 +26,7 @@ HOW TO USE
 
 -User Login: For enhanced access, click the "Sign In" button to reveal the user login pop-up, then input the required credentials.
 
-![Preview](images/Spacecraft.png)
+![Preview](images/Spacecrat.png)
 
 ![Articles](images/Spacecraft1.png)
 
